@@ -1,1 +1,1 @@
-# TestChat2
+# Telegram bot for using chatGPT
